@@ -21,7 +21,7 @@ Git Integration
 Java 17 Amazon Coretto
 
 Installation and Usage
-Clone the project to your computer: git clone https://github.com/username/repository.git
+Clone the project to your computer: git clone https://github.com/oscarcaner/Amsterdam.git
 Navigate to the project directory: cd agoda-vacation-reservation-project
 Install the required dependencies by running the following command in the terminal: npm install
 Configure the database connection.
